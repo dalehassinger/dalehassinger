@@ -324,9 +324,9 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="545" height="42" rx="18.0355" class="bubble" />
+    <rect width="500" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
+      Follow me on Twitter at
       <a xlink:href="https://twitter.com/dalehassinger">https://twitter.com/dalehassinger</a>
     </text>
   </g>
