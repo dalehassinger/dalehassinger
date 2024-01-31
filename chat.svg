@@ -231,7 +231,7 @@
   </defs>
 
   <!-- typing 1 -->
-  <g transform="translate(10, 0)" class="typing-1">
+  <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -245,17 +245,16 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- Hi, I'm Dale -->
+  <!-- typing 1 text -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="200" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Dale Hassinger</text>
   </g>
 
   <!-- typing 2 -->
-  <g transform="translate(10, 48)" class="msg-1 bubble">
+  <g transform="translate(10, 48)" class="msg-2 bubble">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -269,44 +268,16 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
-
   </g>
 
-  <!-- Typing 2 -->
-  <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+  <!-- typing 2 text -->
+  <g transform="translate(10, 48)" class="msg-2 bubble">
+    <rect width="190" height="42" rx="18.0355" />
     <text x="15" y="27">I live in Dillsburg, PA</text>
   </g>
 
   <!-- typing 3 -->
-  <g transform="translate(10, 120)" class="typing-3">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
-  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
-  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
-
-    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    </circle>
-
-  </g>
-
-  <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am a VMware vExpert and a VCF Specialist,</text>
-    <text x="15" y="50">I work with Automation, Monitoring and Logging.</text>
-    <text x="15" y="50">I like to give back to the vCommunity by sharing code</text>
-    <text x="15" y="50">and creating Blogs.</text>
-  </g>
-
-  <!-- typing 4 -->
-  <g transform="translate(10, 192)" class="typing-4">
+  <g transform="translate(10, 96)" class="msg-3 bubble">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -323,17 +294,41 @@
 
   </g>
 
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+  <!-- typing 3 text -->
+  <g transform="translate(10, 96)" class="msg-3 bubble">
+    <rect width="400" height="42" rx="18.0355" />
+    <text x="15" y="27">I am a VMware vExpert and a VCF Specialist</text>
+  </g>
+
+  <!-- typing 4 -->
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- typing 4 text -->
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect width="550" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
-      <a xlink:href="https://twitter.com/dfinke">https://twitter.com/dfinke</a>
+      <a xlink:href="https://twitter.com/dalehassinger">https://twitter.com/dalehassinger</a>
     </text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <g transform="translate(10, 192)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -351,13 +346,13 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 240)" class="msg-5">
+  <g transform="translate(10, 192)" class="typing-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by</text>
   </g>
 
   <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
+  <g transform="translate(10, 240)" class="typing-6">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -375,8 +370,40 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 288)" class="msg-6">
+  <g transform="translate(10, 240)" class="msg-6">
     <rect width="260" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great Wednesday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
+
+
+<!-- typing 3
+  <g transform="translate(10, 144)" class="typing-4">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2044" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="73.5677" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  -->
+
+  <!-- Work ... 
+  <g transform="translate(10, 144)" class="typing-4">
+    <rect width="460" height="88.1736" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I am a VMware vExpert and a VCF Specialist,</text>
+    <text x="15" y="50">I work with Automation, Monitoring and Logging.</text>
+    <text x="15" y="50">I like to give back to the vCommunity by sharing code</text>
+    <text x="15" y="50">and creating Blogs.</text>
+  </g>
+  -->
