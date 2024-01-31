@@ -5,6 +5,6 @@
 
 <br/>  
 
-Thank You to [Doug Finke](https://github.com/dfinke) for the awesome read.me idea.
+Thank You to [Doug Finke](https://github.com/dfinke) for the awesome READ.me idea.
 
 <br/>
