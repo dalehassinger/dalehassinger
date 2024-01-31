@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="250" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Dillsburg , PA</text>
     <text x="15" y="50">with my Rescue Dog, Belle.</text>
   </g>
@@ -300,7 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm an vExpert and VCF Specialist,</text>
+    <text x="15" y="27">I'm an vExpert and VMware VCF Specialist,</text>
     <text x="15" y="50">and I like sharing code and Blogs for the vCommunity.</text>
   </g>
 
@@ -324,7 +324,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="550" height="42" rx="18.0355" class="bubble" />
+    <rect width="545" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
       <a xlink:href="https://twitter.com/dalehassinger">https://twitter.com/dalehassinger</a>
@@ -351,8 +351,9 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <rect width="455" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Thanks for stopping by. Visit my Blog Site at
+      <a xlink:href="https://www.vCROCS.info">vCROCS</a></text>
   </g>
 
   <!-- typing 6 -->
@@ -375,7 +376,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="260" height="42" rx="18.0355" class="bubble" />
+    <rect width="200" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great day! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
