@@ -2,5 +2,3 @@
 <br/>
 
 [![](./chat.svg)](https://twitter.com/dalehassinger)
-
-<br/>
