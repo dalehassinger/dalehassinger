@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm an vExpert and VMware VCF Specialist,</text>
-    <text x="15" y="50">and I like sharing code and Blogs for the vCommunity.</text>
+    <text x="15" y="50">and I like sharing code and Blogs with the vCommunity.</text>
   </g>
 
   <!-- typing 4 -->
@@ -324,7 +324,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="500" height="42" rx="18.0355" class="bubble" />
+    <rect width="490" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       Follow me on Twitter at
       <a xlink:href="https://twitter.com/dalehassinger">https://twitter.com/dalehassinger</a>
